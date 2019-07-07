@@ -1,0 +1,15 @@
+article {
+    font-family: 'Courgette', cursive;
+    text-align: center;
+    display: -webkit-box;
+    display: flex;
+}
+article h1, article h3, article h5 {
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 20px;
+}
+article h5 {
+    font-style: italic;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNzcy9zdHlsZS5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSSxpQ0FBaUM7SUFDakMsa0JBQWtCO0lBQ2xCLG9CQUFhO0lBQWIsYUFBYTtBQUNqQjtBQUNBO0lBQ0ksa0NBQWtDO0lBQ2xDLG1CQUFtQjtBQUN2QjtBQUNBO0lBQ0ksa0JBQWtCO0FBQ3RCIiwiZmlsZSI6InN0eWxlLnByZWZpeGVkLmNzcyIsInNvdXJjZXNDb250ZW50IjpbImFydGljbGUge1xyXG4gICAgZm9udC1mYW1pbHk6ICdDb3VyZ2V0dGUnLCBjdXJzaXZlO1xyXG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG4gICAgZGlzcGxheTogZmxleDtcclxufVxyXG5hcnRpY2xlIGgxLCBhcnRpY2xlIGgzLCBhcnRpY2xlIGg1IHtcclxuICAgIGZvbnQtZmFtaWx5OiAnUmFsZXdheScsIHNhbnMtc2VyaWY7XHJcbiAgICBtYXJnaW4tYm90dG9tOiAyMHB4O1xyXG59XHJcbmFydGljbGUgaDUge1xyXG4gICAgZm9udC1zdHlsZTogaXRhbGljO1xyXG59XHJcbiJdfQ== */

@@ -1,6 +1,7 @@
 article {
     font-family: 'Courgette', cursive;
     text-align: center;
+    display: flex;
 }
 article h1, article h3, article h5 {
     font-family: 'Raleway', sans-serif;
