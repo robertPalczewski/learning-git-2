@@ -2,7 +2,10 @@ article {
     font-family: 'Courgette', cursive;
     text-align: center;
 }
-article h3 {
+article h1, article h3, article h5 {
     font-family: 'Raleway', sans-serif;
+    margin-bottom: 20px;
+}
+article h5 {
     font-style: italic;
 }
